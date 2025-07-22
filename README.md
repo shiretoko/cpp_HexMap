@@ -25,8 +25,12 @@ No external libraries required
 logs: P spawned in Zone 3 at (x=1, y=2)
 
 [ ] [ ] [ ] [ ] 
+
   [ ] [ ] [ ] [ ] 
+  
 [ ] [P] [ ] [ ] 
+
   [ ] [ ] [ ] [ ] 
+  
 
 [ Press Enter to exit ]
