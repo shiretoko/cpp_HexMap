@@ -20,3 +20,13 @@ The map layout adjusts display formatting to mimic a hex-like structure in plain
 🛠 Technologies Used
 C# (.NET Console Application)
 No external libraries required
+
+✅ Example Output
+logs: P spawned in Zone 3 at (x=1, y=2)
+
+[ ] [ ] [ ] [ ] 
+  [ ] [ ] [ ] [ ] 
+[ ] [P] [ ] [ ] 
+  [ ] [ ] [ ] [ ] 
+
+[ Press Enter to exit ]
