@@ -1,4 +1,4 @@
-# cpp_HexMap
+# csharp_HexMap
 Console Hex Map Demo (Offset Grid)
 
 A simple C# console application demonstrating a hexagonal map layout using an offset coordinate system.
