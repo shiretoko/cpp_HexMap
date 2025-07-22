@@ -22,7 +22,9 @@ C# (.NET Console Application)
 No external libraries required
 
 ✅ Example Output
+
 logs: P spawned in Zone 3 at (x=1, y=2)
+
 
 [ ] [ ] [ ] [ ] 
 
